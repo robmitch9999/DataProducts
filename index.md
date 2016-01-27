@@ -47,15 +47,15 @@ What relates to what, and how?
 
 ## Intuitive insight, unlike the dataset!
 
-for example it shows you a figure like this (the code is in the .Rmd file, not here on Rpubs! trust me!!!):
+for example it shows you a figure like this:
 
-![plot of chunk plot](assets/fig/plot-1.png)
+<img src="assets/fig/plot-1.png" title="plot of chunk plot" alt="plot of chunk plot" style="display: block; margin: auto;" />
 
-
+for the code, see: http://github.com/robmitch9999/DataProducts/blob/gh-pages/index.Rmd
 
 ---
 
-## Slide 5 Better yet lets go to the app and see what it can do:
+## Better yet lets go to the app and see what it can do:
 
 <br>
 <br>
